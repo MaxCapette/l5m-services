@@ -247,41 +247,14 @@ export function MainPage() {
           <p className="   ">13006 MARSEILLE</p>
           <p className="  mt-4 ">contact@l5m-services.fr</p>
 
-          <p className="  mt-4 ">TEL: 05 35 54 19 41</p>
+          <p className="  mt-4 ">TEL: 04 84 89 63 52</p>
         </div>
       </footer>
     </div>
   )
 }
 
-function BuildingIcon(props: any) {
-  return (
-    <svg
-      {...props}
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <rect width="16" height="20" x="4" y="2" rx="2" ry="2" />
-      <path d="M9 22v-4h6v4" />
-      <path d="M8 6h.01" />
-      <path d="M16 6h.01" />
-      <path d="M12 6h.01" />
-      <path d="M12 10h.01" />
-      <path d="M12 14h.01" />
-      <path d="M16 10h.01" />
-      <path d="M16 14h.01" />
-      <path d="M8 10h.01" />
-      <path d="M8 14h.01" />
-    </svg>
-  )
-}
+
 
 function MenuIcon(props: any) {
   return (
