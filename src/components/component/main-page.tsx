@@ -247,7 +247,7 @@ export function MainPage() {
           <p className="   ">13006 MARSEILLE</p>
           <p className="  mt-4 ">contact@l5m-services.fr</p>
 
-          <p className="  mt-4 ">TEL: 04 84 89 63 52</p>
+          <p className="  mt-4 ">TEL: 09 72 17 39 63</p>
         </div>
       </footer>
     </div>
